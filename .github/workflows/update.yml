@@ -1,40 +1,31 @@
-name: Cartel Auto Refresh
+name: Hourly Playlist Update
 
 on:
   schedule:
-    - cron: '0 * * * *'        # Runs every 1 hour (at the start of the hour)
-  workflow_dispatch:           # Adds a "Run workflow" button for Manual Refresh
-  push:
-    branches:
-      - main
+    - cron: '0 * * * *' # Every 1 hour
+  workflow_dispatch: # Allows you to "Manually Refresh" from GitHub Actions tab
+
+permissions:
+  contents: write
 
 jobs:
-  refresh:
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write          # Required for the bot to push the update
-    
     steps:
-      - name: Checkout Code
+      - name: Checkout Repo
         uses: actions/checkout@v4
 
-      - name: Setup PHP
-        uses: shivammathur/setup-php@v2
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          php-version: '8.2'
-          extensions: curl
+          node-version: 20
 
-      - name: Run Update Script
-        run: php update.php
+      - name: Fetch and Process Playlist
+        run: node update_playlist.js
 
-      - name: Commit and Push
+      - name: Commit and Push Changes
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --global user.name "Cartel-Bot"
+          git config --global user.email "bot@cartel.live"
           git add playlist.m3u
-          if git diff --cached --quiet; then
-            echo "No changes found, skipping commit."
-          else
-            git commit -m "Auto-Update: $(date +'%Y-%m-%d %H:%M:%S')"
-            git push
-          fi
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update Playlist: $(date -u)" && git push)
