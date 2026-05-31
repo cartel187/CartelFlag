@@ -1,13 +1,19 @@
-name: Cartel Auto Update
+name: Cartel Auto Refresh
 
 on:
   schedule:
-    - cron: '0 * * * *' # Runs every 1 hour
-  workflow_dispatch: # Allows you to manually refresh from the Actions tab
+    - cron: '0 * * * *'        # Runs every 1 hour (at the start of the hour)
+  workflow_dispatch:           # Adds a "Run workflow" button for Manual Refresh
+  push:
+    branches:
+      - main
 
 jobs:
-  update-playlist:
+  refresh:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write          # Required for the bot to push the update
+    
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
@@ -16,13 +22,19 @@ jobs:
         uses: shivammathur/setup-php@v2
         with:
           php-version: '8.2'
+          extensions: curl
 
-      - name: Execute Update Script
+      - name: Run Update Script
         run: php update.php
 
-      - name: Commit and Push Changes
+      - name: Commit and Push
         run: |
-          git config --global user.name "Cartel-Bot"
-          git config --global user.email "bot@cartellive.app"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add playlist.m3u
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto Update: $(date)" && git push)
+          if git diff --cached --quiet; then
+            echo "No changes found, skipping commit."
+          else
+            git commit -m "Auto-Update: $(date +'%Y-%m-%d %H:%M:%S')"
+            git push
+          fi
