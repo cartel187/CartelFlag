@@ -1,26 +1,23 @@
-name: Hourly Playlist Update
+name: Update Playlist
 
 on:
   schedule:
     - cron: '0 * * * *' # Every 1 hour
-  workflow_dispatch: # Allows you to "Manually Refresh" from GitHub Actions tab
-
-permissions:
-  contents: write
+  workflow_dispatch: # Allows Manual Refresh button from GitHub Actions tab
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repo
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 18
 
-      - name: Fetch and Process Playlist
+      - name: Run Update Script
         run: node update_playlist.js
 
       - name: Commit and Push Changes
@@ -28,4 +25,5 @@ jobs:
           git config --global user.name "Cartel-Bot"
           git config --global user.email "bot@cartel.live"
           git add playlist.m3u
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update Playlist: $(date -u)" && git push)
+          git commit -m "📊 Auto-Update: $(date)" || echo "No changes to commit"
+          git push
