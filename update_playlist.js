@@ -2,7 +2,7 @@ const fs = require('fs');
 const https = require('https');
 
 // --- Configuration ---
-const APP_URL = 'https://cartellive.vercel.app/api?token=cartels2&format=universal';
+const APP_URL = 'https://server.lrl45.workers.dev/channel/raw?=m3u';
 const OUTPUT_FILE = 'playlist.m3u';
 const SECRET_HEADER = 'workflow-sync-bot'; // Must match the one added to index.ts
 
