@@ -1,35 +1,56 @@
 <?php
-// Configuration
-$sourceUrl = "https://cartellive.vercel.app/api?token=cartels2&format=universal";
-$outputFile = "playlist.m3u";
+/**
+ * Cartel Playlist Fetcher
+ * Bypasses basic security blocks using custom headers
+ */
 
-echo "Starting Update Process...\n";
-echo "Fetching from: " . $sourceUrl . "\n";
+$url = "https://cartellive.vercel.app/api?token=cartels2&format=universal";
 
-// Use a real Browser User-Agent to avoid being blocked
-$options = [
-    "http" => [
-        "method" => "GET",
-        "header" => "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\r\n"
-    ]
-];
+$ch = curl_init();
+curl_setopt($ch, CURLOPT_URL, $url);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+curl_setopt($ch, CURLOPT_TIMEOUT, 60);
 
-$context = stream_context_create($options);
-$content = file_get_contents($sourceUrl, false, $context);
+// Use a real browser User-Agent to bypass security/bot gates
+curl_setopt($ch, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
 
-if ($content === false) {
-    die("Error: Could not fetch content from source URL.\n");
+// Add standard headers
+curl_setopt($ch, CURLOPT_HTTPHEADER, [
+    'Accept: text/plain, */*',
+    'Accept-Language: en-US,en;q=0.9',
+    'Origin: https://cartellive.vercel.app',
+    'Referer: https://cartellive.vercel.app/'
+]);
+
+$content = curl_exec($ch);
+$httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+
+if(curl_errno($ch)) {
+    echo 'Error: ' . curl_error($ch);
+    exit(1);
 }
 
-// Basic validation to ensure we got an M3U file
-if (strpos($content, "#EXTM3U") === false) {
-    die("Error: The fetched content does not appear to be a valid M3U playlist.\n");
+curl_close($ch);
+
+if ($httpCode !== 200 || empty($content) || strpos($content, '#EXTM3U') === false) {
+    echo "Fail: Received response code $httpCode or invalid M3U content.\n";
+    exit(1);
 }
 
-// Save to file
-if (file_put_contents($outputFile, $content) !== false) {
-    echo "Success: Playlist updated and saved to " . $outputFile . "\n";
+// Clean up and format
+$date = date('Y-m-d H:i:s');
+$header = "#EXTM3U\n# Last Updated: $date\n# Source: Cartel Web\n\n";
+
+// Remove existing header from source to avoid double headers
+$content = preg_replace('/^#EXTM3U\R*/i', '', $content);
+$finalPlaylist = $header . trim($content);
+
+if (file_put_contents("playlist.m3u", $finalPlaylist)) {
+    echo "Success: playlist.m3u updated at $date\n";
 } else {
-    die("Error: Could not write to " . $outputFile . "\n");
+    echo "Error: Failed to write to file.\n";
+    exit(1);
 }
 ?>
