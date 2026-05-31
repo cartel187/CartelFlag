@@ -1,31 +1,28 @@
 name: Cartel Auto Update
+
 on:
   schedule:
     - cron: '0 * * * *' # Runs every 1 hour
-  workflow_dispatch:      # Allows manual trigger
+  workflow_dispatch: # Allows you to manually refresh from the Actions tab
 
 jobs:
-  build:
+  update-playlist:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
+      - name: Checkout Code
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
         with:
-          node-version: 20
+          php-version: '8.2'
 
-      - name: Update Playlist
-        run: |
-          # Replace the URL below with your actual Applet URL
-          # Note: use the token if your app requires it
-          curl -s "https://ais-pre-6qszuoenhblblefxw7bl55-671850468318.asia-southeast1.run.app/playlist.m3u" -o playlist.m3u
-          
+      - name: Execute Update Script
+        run: php update.php
+
       - name: Commit and Push Changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "Cartel-Bot"
+          git config --global user.email "bot@cartellive.app"
           git add playlist.m3u
-          git commit -m "Auto Update: $(date)" || exit 0
-          git push
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto Update: $(date)" && git push)
