@@ -1,0 +1,25 @@
+name: Generate Daily Playlist
+on:
+  schedule:
+    - cron: "0 * * * *" # Runs every 1 hour
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  build:
+    runs-with: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Fetch Latest Playlist
+        run: |
+          # Replace YOUR_APP_URL with your actual shared app URL
+          # Adding the secure token as an environment variable or secret is recommended
+          curl -s "https://YOUR_APP_URL/playlist.m3u?token=PROTECTED_TOKEN&format=tivimate" -o playlist.m3u
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add playlist.m3u
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update playlist: $(date)" && git push)
