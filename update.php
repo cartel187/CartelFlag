@@ -6,7 +6,7 @@
 // CONFIGURATION: Add your playlists here
 $sources = [
     "stalk.m3u" => "https://saarstalk.cartel187.workers.dev/playlist.m3u8",
-    "playlist2.m3u" => "https://server.lrl45.workers.dev/channel/raw?=m3u",
+    "playlist2.m3u" => "https://cartellive.vercel.app/api?token=cartels2&format=universal",
     "playlist3.m3u" => "https://cartellive.vercel.app/api/stalker/1.m3u?token=cartelstalk1",
 ];
 
