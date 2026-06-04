@@ -1,42 +1,66 @@
-const fs = require('fs');
-const https = require('https');
+<?php
+/**
+ * CartelFetch - Multi-Source & Combined M3U Fetcher
+ */
 
-// --- Configuration ---
-const APP_URL = 'https://server.lrl45.workers.dev/channel/raw?=m3u';
-const OUTPUT_FILE = 'playlist.m3u';
-const SECRET_HEADER = 'workflow-sync-bot'; // Must match the one added to index.ts
+// CONFIGURATION: Add your playlists here
+$sources = [
+    "playlist1.m3u" => "https://yowaimo.in/StreamFlexTv/master.php?name=SF9EEJVS&token=165561166922b8141128e14f",
+    "playlist2.m3u" => "https://server.lrl45.workers.dev/channel/raw?=m3u",
+    "playlist3.m3u" => "https://another-provider.com/get.php?auth=123",
+];
 
-console.log('🔄 Starting Playlist Sync...');
+$combinedFileName = "all_combined.m3u";
+$combinedContent = "#EXTM3U\n"; // Start the combined file with the required header
 
-const options = {
-    headers: {
-        'User-Agent': 'Cartel-Sync-Bot/1.0',
-        'X-Cartel-Secret': SECRET_HEADER
-    }
-};
+foreach ($sources as $fileName => $url) {
+    echo "[*] Fetching: $fileName...\n";
 
-https.get(APP_URL, options, (res) => {
-    let data = '';
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+    curl_setopt($ch, CURLOPT_TIMEOUT, 100);
+    curl_setopt($ch, CURLOPT_ENCODING, ""); // Support GZIP
 
-    if (res.statusCode !== 200) {
-        console.error(`❌ Error: App returned status ${res.statusCode}`);
-        process.exit(1);
-    }
+    // Stealth Headers
+    curl_setopt($ch, CURLOPT_HTTPHEADER, [
+        'User-Agent: OTTNavigator/1.7.1.2 (Linux; Android 11) ExoPlayerLib/2.14.2',
+        'Accept: */*',
+        'Connection: keep-alive'
+    ]);
 
-    res.on('data', (chunk) => { data += chunk; });
+    $content = curl_exec($ch);
+    $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+    curl_close($ch);
 
-    res.on('end', () => {
-        if (data.includes('#EXTM3U')) {
-            fs.writeFileSync(OUTPUT_FILE, data);
-            console.log(`✅ Success! Playlist saved to ${OUTPUT_FILE}`);
-            console.log(`📊 Statistics: ${data.split('#EXTINF').length - 1} Channels captured.`);
-        } else {
-            console.error('❌ Error: Received invalid M3U data.');
-            process.exit(1);
+    if ($httpCode === 200 && stripos($content, '#EXTINF') !== false) {
+        // 1. Save the individual file
+        file_put_contents($fileName, $content);
+        echo "[+] Successfully saved $fileName\n";
+
+        // 2. Process for combined file
+        // We strip the #EXTM3U header from individual files so the combined file only has one header at the top
+        $lines = explode("\n", $content);
+        foreach ($lines as $line) {
+            $line = trim($line);
+            // Skip the header line and empty lines
+            if (empty($line) || stripos($line, '#EXTM3U') !== false) {
+                continue;
+            }
+            $combinedContent .= $line . "\n";
         }
-    });
+    } else {
+        echo "[-] Failed to fetch $fileName (HTTP $httpCode or No Channels Found)\n";
+    }
+}
 
-}).on('error', (err) => {
-    console.error('❌ Fetch Error:', err.message);
-    process.exit(1);
-});
+// Save the combined master list
+if (strlen($combinedContent) > 20) {
+    file_put_contents($combinedFileName, $combinedContent);
+    echo "[!] All playlists merged into $combinedFileName\n";
+} else {
+    echo "[-] Merge failed: No valid content was fetched.\n";
+}
+?>
