@@ -5,7 +5,7 @@
 
 // CONFIGURATION: Add your playlists here
 $sources = [
-    "playlist1.m3u" => "https://yowaimo.in/StreamFlexTv/master.php?name=SF9EEJVS&token=165561166922b8141128e14f",
+    "stalk.m3u" => "https://saarstalk.cartel187.workers.dev/playlist.m3u8",
     "playlist2.m3u" => "https://server.lrl45.workers.dev/channel/raw?=m3u",
     "playlist3.m3u" => "https://another-provider.com/get.php?auth=123",
 ];
