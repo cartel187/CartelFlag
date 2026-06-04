@@ -7,7 +7,7 @@
 $sources = [
     "stalk.m3u" => "https://saarstalk.cartel187.workers.dev/playlist.m3u8",
     "playlist2.m3u" => "https://server.lrl45.workers.dev/channel/raw?=m3u",
-    "playlist3.m3u" => "https://another-provider.com/get.php?auth=123",
+    "playlist3.m3u" => "https://cartellive.vercel.app/api/stalker/1.m3u?token=cartelstalk1",
 ];
 
 $combinedFileName = "all_combined.m3u";
