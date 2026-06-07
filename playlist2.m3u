@@ -1,37 +1,34 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/mitthu786/main/jio/epg.xml.gz"
-#DATE:- 07/06/2026 12:17 pm
+#DATE:- 07/06/2026 02:47 pm
 # Written and Directed by ✨ CARTEL 187 ✨
 # Join us on Telegram: https://t.me/cartel187
 
-#EXTINF:-1 tvg-id="143151" tvg-name="Jb Bruges Vs Ghent Gladiators" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143151_6108_JB_GG_FC-Web.png" group-title="𝗙𝗔𝗡𝗖𝗢𝗗𝗘" group-logo="https://ik.imagekit.io/yjtx9nh9y/vecteezy_fancode-app-icon-on-transparent-background_69146538.png",ENG | Jb Bruges Vs Ghent Gladiators
-https://dai-fancode.pages.dev/mumbai/143151_english_hls_6b6ef54f7c8233_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="143152" tvg-name="Antwerp Anchors Vs Akcel United Brussels" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143152_6108_AA_AUB_FC-Web.png" group-title="𝗙𝗔𝗡𝗖𝗢𝗗𝗘" group-logo="https://ik.imagekit.io/yjtx9nh9y/vecteezy_fancode-app-icon-on-transparent-background_69146538.png",ENG | Antwerp Anchors Vs Akcel United Brussels
+https://dai-fancode.pages.dev/mumbai/143152_english_hls_43676f32e862565_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="143065" tvg-name="Malwa Stallions Vs Gwalior Cheetahs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143065_6102_MWS_GC_FC-WEB.jpg" group-title="𝗙𝗔𝗡𝗖𝗢𝗗𝗘" group-logo="https://ik.imagekit.io/yjtx9nh9y/vecteezy_fancode-app-icon-on-transparent-background_69146538.png",ENG | Malwa Stallions Vs Gwalior Cheetahs
-https://dai-fancode.pages.dev/mumbai/143065_english_hls_0e4e8062e253510_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="143067" tvg-name="Rewa Jaguars Vs Bhopal Leopards" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143067_6102_RW_BL_FC-WEB.jpg" group-title="𝗙𝗔𝗡𝗖𝗢𝗗𝗘" group-logo="https://ik.imagekit.io/yjtx9nh9y/vecteezy_fancode-app-icon-on-transparent-background_69146538.png",ENG | Rewa Jaguars Vs Bhopal Leopards
+https://dai-fancode.pages.dev/mumbai/143067_english_hls_ca3711684d14022_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="143066" tvg-name="Royal Nimar Eagles Vs Chambal Ghariyals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143066_6102_RNG_CGS_FC-WEB.jpg" group-title="𝗙𝗔𝗡𝗖𝗢𝗗𝗘" group-logo="https://ik.imagekit.io/yjtx9nh9y/vecteezy_fancode-app-icon-on-transparent-background_69146538.png",ENG | Royal Nimar Eagles Vs Chambal Ghariyals
-https://dai-fancode.pages.dev/mumbai/143066_english_hls_a517307c289052_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="139950" tvg-name="Hungary Gp" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Michelin-Grand-Prix-of-Hungary_fc-web.jpg" group-title="𝗙𝗔𝗡𝗖𝗢𝗗𝗘" group-logo="https://ik.imagekit.io/yjtx9nh9y/vecteezy_fancode-app-icon-on-transparent-background_69146538.png",ENG | Hungary Gp
-https://dai-fancode.pages.dev/mumbai/139950_english_hls_3861e2ceab6114_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="142732" tvg-name="Court Philippe Chatrier" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="𝗙𝗔𝗡𝗖𝗢𝗗𝗘" group-logo="https://ik.imagekit.io/yjtx9nh9y/vecteezy_fancode-app-icon-on-transparent-background_69146538.png",ENG | Court Philippe Chatrier
+#EXTINF:-1 tvg-id="142732" tvg-name="Cobolli Vs Zverev" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_FC-WEB.jpg" group-title="𝗙𝗔𝗡𝗖𝗢𝗗𝗘" group-logo="https://ik.imagekit.io/yjtx9nh9y/vecteezy_fancode-app-icon-on-transparent-background_69146538.png",ENG | Cobolli Vs Zverev
 https://dai.google.com/linear/hls/event/Y6jP_z0zQdaO-bhFCEf5EQ/master.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="142732" tvg-name="Court Philippe Chatrier" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="𝗙𝗔𝗡𝗖𝗢𝗗𝗘" group-logo="https://ik.imagekit.io/yjtx9nh9y/vecteezy_fancode-app-icon-on-transparent-background_69146538.png",HIN | Court Philippe Chatrier
+#EXTINF:-1 tvg-id="142732" tvg-name="Cobolli Vs Zverev" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_FC-WEB.jpg" group-title="𝗙𝗔𝗡𝗖𝗢𝗗𝗘" group-logo="https://ik.imagekit.io/yjtx9nh9y/vecteezy_fancode-app-icon-on-transparent-background_69146538.png",HIN | Cobolli Vs Zverev
 https://dai.google.com/linear/hls/event/fE5fgIpRRwiue-26GG4XmA/master.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="142732" tvg-name="Court Philippe Chatrier" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="𝗙𝗔𝗡𝗖𝗢𝗗𝗘" group-logo="https://ik.imagekit.io/yjtx9nh9y/vecteezy_fancode-app-icon-on-transparent-background_69146538.png",TAM | Court Philippe Chatrier
+#EXTINF:-1 tvg-id="142732" tvg-name="Cobolli Vs Zverev" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_FC-WEB.jpg" group-title="𝗙𝗔𝗡𝗖𝗢𝗗𝗘" group-logo="https://ik.imagekit.io/yjtx9nh9y/vecteezy_fancode-app-icon-on-transparent-background_69146538.png",TAM | Cobolli Vs Zverev
 https://dai.google.com/linear/hls/event/fl9QYciWQzGorh7RYdUx2Q/master.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="142732" tvg-name="Court Philippe Chatrier" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="𝗙𝗔𝗡𝗖𝗢𝗗𝗘" group-logo="https://ik.imagekit.io/yjtx9nh9y/vecteezy_fancode-app-icon-on-transparent-background_69146538.png",TEL | Court Philippe Chatrier
+#EXTINF:-1 tvg-id="142732" tvg-name="Cobolli Vs Zverev" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_FC-WEB.jpg" group-title="𝗙𝗔𝗡𝗖𝗢𝗗𝗘" group-logo="https://ik.imagekit.io/yjtx9nh9y/vecteezy_fancode-app-icon-on-transparent-background_69146538.png",TEL | Cobolli Vs Zverev
 https://dai.google.com/linear/hls/event/1I2inQFKTc6hWKkkGtjkog/master.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="142732" tvg-name="Court Philippe Chatrier" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="𝗙𝗔𝗡𝗖𝗢𝗗𝗘" group-logo="https://ik.imagekit.io/yjtx9nh9y/vecteezy_fancode-app-icon-on-transparent-background_69146538.png",KAN | Court Philippe Chatrier
+#EXTINF:-1 tvg-id="142732" tvg-name="Cobolli Vs Zverev" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_FC-WEB.jpg" group-title="𝗙𝗔𝗡𝗖𝗢𝗗𝗘" group-logo="https://ik.imagekit.io/yjtx9nh9y/vecteezy_fancode-app-icon-on-transparent-background_69146538.png",KAN | Cobolli Vs Zverev
 https://dai.google.com/linear/hls/event/yGxR-xztTQi4dkEj1x5Qjw/master.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="143115" tvg-name="Main Feed   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="𝗙𝗔𝗡𝗖𝗢𝗗𝗘" group-logo="https://ik.imagekit.io/yjtx9nh9y/vecteezy_fancode-app-icon-on-transparent-background_69146538.png",ENG | Main Feed   Day 4
 https://dai-fancode.pages.dev/mumbai/143115_english_hls_977c97831d36519_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="143310" tvg-name="F1 Kids 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg" group-title="𝗙𝗔𝗡𝗖𝗢𝗗𝗘" group-logo="https://ik.imagekit.io/yjtx9nh9y/vecteezy_fancode-app-icon-on-transparent-background_69146538.png",ENG | F1 Kids 2026
+https://dai-fancode.pages.dev/mumbai/143310_english_hls_fcadf7e6d422076_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="139451" tvg-name="Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Old-Match-Card_1780690493142.png" group-title="𝗙𝗔𝗡𝗖𝗢𝗗𝗘" group-logo="https://ik.imagekit.io/yjtx9nh9y/vecteezy_fancode-app-icon-on-transparent-background_69146538.png",ENG | Race
 https://dai-fancode.pages.dev/mumbai/139451_english_dash_39948_1drmta-di_h264/index.mpd|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -42,7 +39,13 @@ https://dai-fancode.pages.dev/mumbai/139451_hindi_dash_53469_1drmta-di_h264/inde
 #EXTINF:-1 tvg-id="139451" tvg-name="Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Old-Match-Card_1780690493142.png" group-title="𝗙𝗔𝗡𝗖𝗢𝗗𝗘" group-logo="https://ik.imagekit.io/yjtx9nh9y/vecteezy_fancode-app-icon-on-transparent-background_69146538.png",TAM | Race
 https://dai-fancode.pages.dev/mumbai/139451_tamil_dash_27925_1drmta-di_h264/index.mpd|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="000a76ae-1700-4d17-9720-27c55222a428" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/bhcfs7djuf6povn8iehu" tvg-lang="English" group-title="𝗜𝗖𝗖 𝗧𝗩" group-logo="https://ik.imagekit.io/yjtx9nh9y/62823e9932b32411608aa856.png",English | WT20: Captains' Carnival
+#EXTINF:-1 tvg-id="143117" tvg-name="Featured Groups   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="𝗙𝗔𝗡𝗖𝗢𝗗𝗘" group-logo="https://ik.imagekit.io/yjtx9nh9y/vecteezy_fancode-app-icon-on-transparent-background_69146538.png",ENG | Featured Groups   Day 4
+https://dai-fancode.pages.dev/mumbai/143117_english_hls_32345f30b140789_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="143116" tvg-name="Marquee Feed   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="𝗙𝗔𝗡𝗖𝗢𝗗𝗘" group-logo="https://ik.imagekit.io/yjtx9nh9y/vecteezy_fancode-app-icon-on-transparent-background_69146538.png",ENG | Marquee Feed   Day 4
+https://dai-fancode.pages.dev/mumbai/143116_english_hls_6b9ba2889a54425_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="1bd07d3d-790f-4204-8864-ac45c454995f" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/bhcfs7djuf6povn8iehu" tvg-lang="English" group-title="𝗜𝗖𝗖 𝗧𝗩" group-logo="https://ik.imagekit.io/yjtx9nh9y/62823e9932b32411608aa856.png",English | WT20: Captains' Carnival: Q&A Session
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -51,7 +54,7 @@ https://dai-fancode.pages.dev/mumbai/139451_tamil_dash_27925_1drmta-di_h264/inde
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1780857909~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=7124df64df89786534f5407f87f2bf24c48cc8b5362fb9698b61d7addabbe717/manifest.mpd?vcfilter=000a76ae-1700-4d17-9720-27c55222a428&powered_by=jay_shree_ram
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1780866909~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=2e5287b457962db357bbea61a41dd2d8224a9bfbafd464c8ce9833c5a9a06524/manifest.mpd?vcfilter=1bd07d3d-790f-4204-8864-ac45c454995f&powered_by=jay_shree_ram
 
 #EXTINF:-1 tvg-id="sony-hd" tvg-name="SET HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="SonyLIV" group-logo="https://ik.imagekit.io/yjtx9nh9y/sony-liv-logo-hd.png", SET HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -153,286 +156,286 @@ https://sliv.tgaadi.workers.dev/sonysixhd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://kids.tgaadi.workers.dev/19833.m3u8
 
-#EXTINF:-1 tvg-id="1090529780" tvg-name="Roland-Garros 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019327/1780704663833921_RG26_final_womens_doubles_Siniakova_Townsend_vs_Krunic_Danilina_6jun_SP_landscape_thumb.jpg" tvg-language="English" group-logo="https://ik.imagekit.io/yjtx9nh9y/sony-liv-logo-hd.png" group-title="SonyLiv Events",ENG | Siniakova/Townsend vs Krunic/Danilina - Final - 7 Jun 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/RG_Multi0706/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e53accb217ad1fa6431b424ca0f3a97e-1780828200226
-#EXTINF:-1 tvg-id="1090529780" tvg-name="Roland-Garros 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019327/1780704663833921_RG26_final_womens_doubles_Siniakova_Townsend_vs_Krunic_Danilina_6jun_SP_landscape_thumb.jpg" tvg-language="Hindi" group-logo="https://ik.imagekit.io/yjtx9nh9y/sony-liv-logo-hd.png" group-title="SonyLiv Events",HIN | Siniakova/Townsend vs Krunic/Danilina - Final - 7 Jun 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/RG_Multi0706/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e53accb217ad1fa6431b424ca0f3a97e-1780828200226
-#EXTINF:-1 tvg-id="1090529780" tvg-name="Roland-Garros 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019327/1780704663833921_RG26_final_womens_doubles_Siniakova_Townsend_vs_Krunic_Danilina_6jun_SP_landscape_thumb.jpg" tvg-language="Tamil" group-logo="https://ik.imagekit.io/yjtx9nh9y/sony-liv-logo-hd.png" group-title="SonyLiv Events",TAM | Siniakova/Townsend vs Krunic/Danilina - Final - 7 Jun 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/RG_Multi0706/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e53accb217ad1fa6431b424ca0f3a97e-1780828200226
-#EXTINF:-1 tvg-id="1090529780" tvg-name="Roland-Garros 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019327/1780704663833921_RG26_final_womens_doubles_Siniakova_Townsend_vs_Krunic_Danilina_6jun_SP_landscape_thumb.jpg" tvg-language="Telugu" group-logo="https://ik.imagekit.io/yjtx9nh9y/sony-liv-logo-hd.png" group-title="SonyLiv Events",TEL | Siniakova/Townsend vs Krunic/Danilina - Final - 7 Jun 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/RG_Multi0706/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e53accb217ad1fa6431b424ca0f3a97e-1780828200226
-#EXTINF:-1 tvg-id="1090529780" tvg-name="Roland-Garros 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019327/1780704663833921_RG26_final_womens_doubles_Siniakova_Townsend_vs_Krunic_Danilina_6jun_SP_landscape_thumb.jpg" tvg-language="Kannada" group-logo="https://ik.imagekit.io/yjtx9nh9y/sony-liv-logo-hd.png" group-title="SonyLiv Events",KAN | Siniakova/Townsend vs Krunic/Danilina - Final - 7 Jun 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/RG_Multi0706/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e53accb217ad1fa6431b424ca0f3a97e-1780828200226
-#EXTINF:-1 tvg-id="1090534282" tvg-name="New Zealand Tour of England 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019157/1780552937299512_ENGvsNZ_1Test_day4_live_4june_landscape_thumb.jpg" tvg-language="English" group-logo="https://ik.imagekit.io/yjtx9nh9y/sony-liv-logo-hd.png" group-title="SonyLiv Events",ENG | 1st Test - Day 4 - 7 Jun 2026 
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000297/criclive0706/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e53accb217ad1fa6431b424ca0f3a97e-1780828200226
+#EXTINF:-1 tvg-id="1090529780" tvg-name="Roland-Garros 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019367/1780762274148840_RG26_final_mens_cobolli_vs_zverev_6jun_SP_landscape_thumb.jpg" tvg-language="English" group-logo="https://ik.imagekit.io/yjtx9nh9y/sony-liv-logo-hd.png" group-title="SonyLiv Events",ENG | Flavio Cobolli vs Alexander Zverev - Final - 7 Jun 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/RG_Multi0706/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9d803a4e1a507abec7b43d21e026993c-1780836600154
+#EXTINF:-1 tvg-id="1090529780" tvg-name="Roland-Garros 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019367/1780762274148840_RG26_final_mens_cobolli_vs_zverev_6jun_SP_landscape_thumb.jpg" tvg-language="Hindi" group-logo="https://ik.imagekit.io/yjtx9nh9y/sony-liv-logo-hd.png" group-title="SonyLiv Events",HIN | Flavio Cobolli vs Alexander Zverev - Final - 7 Jun 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/RG_Multi0706/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9d803a4e1a507abec7b43d21e026993c-1780836600154
+#EXTINF:-1 tvg-id="1090529780" tvg-name="Roland-Garros 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019367/1780762274148840_RG26_final_mens_cobolli_vs_zverev_6jun_SP_landscape_thumb.jpg" tvg-language="Tamil" group-logo="https://ik.imagekit.io/yjtx9nh9y/sony-liv-logo-hd.png" group-title="SonyLiv Events",TAM | Flavio Cobolli vs Alexander Zverev - Final - 7 Jun 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/RG_Multi0706/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9d803a4e1a507abec7b43d21e026993c-1780836600154
+#EXTINF:-1 tvg-id="1090529780" tvg-name="Roland-Garros 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019367/1780762274148840_RG26_final_mens_cobolli_vs_zverev_6jun_SP_landscape_thumb.jpg" tvg-language="Telugu" group-logo="https://ik.imagekit.io/yjtx9nh9y/sony-liv-logo-hd.png" group-title="SonyLiv Events",TEL | Flavio Cobolli vs Alexander Zverev - Final - 7 Jun 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/RG_Multi0706/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9d803a4e1a507abec7b43d21e026993c-1780836600154
+#EXTINF:-1 tvg-id="1090529780" tvg-name="Roland-Garros 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019367/1780762274148840_RG26_final_mens_cobolli_vs_zverev_6jun_SP_landscape_thumb.jpg" tvg-language="Kannada" group-logo="https://ik.imagekit.io/yjtx9nh9y/sony-liv-logo-hd.png" group-title="SonyLiv Events",KAN | Flavio Cobolli vs Alexander Zverev - Final - 7 Jun 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/RG_Multi0706/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9d803a4e1a507abec7b43d21e026993c-1780836600154
 #EXTINF:-1 tvg-id="1090534263" tvg-name="Chhattisgarh Cricket Premier League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019248/1780630277914886_CCPL26_Surguja_Tigers_vs_Bastar_Bisons_4jun_landscape_thumb.jpg" tvg-language="Hindi" group-logo="https://ik.imagekit.io/yjtx9nh9y/sony-liv-logo-hd.png" group-title="SonyLiv Events",HIN | Surguja Tigers vs Bastar Bisons - 7 Jun 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/Cricket_0706/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e53accb217ad1fa6431b424ca0f3a97e-1780828200226
-#EXTINF:-1 tvg-id="1090534226" tvg-name="HSBC SVNS Bordeaux 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019323/1780695150933705_SVNS_World_Championship26_Session_1_11th_and_9th_Position_Match_4jun_landscape_thumb.jpg" tvg-language="English" group-logo="https://ik.imagekit.io/yjtx9nh9y/sony-liv-logo-hd.png" group-title="SonyLiv Events",ENG | Session 1 - 11th & 9th Position - 7 Jun 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000292/HSBC_SVN0706/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e53accb217ad1fa6431b424ca0f3a97e-1780828200226
-#EXTINF:-1 tvg-id="1090534214" tvg-name="LIV Golf" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019325/1780699436460373_LIV_Golf_Andalucia_Day4_landscape_thumb.jpg" group-logo="https://ik.imagekit.io/yjtx9nh9y/sony-liv-logo-hd.png" group-title="SonyLiv Events",Andalucia - Day 4 - 7 Jun 2026
-https://dai.google.com/ssai/event/Myr-ILIeTBy_ZpY8gtoaRQ/master.m3u8?hdnea=exp=1780864208~acl=/*~id=7be929b82b1ab7f91d761e851e46553f-1780821000101~hmac=ffecf6ae8e73fb6f43d165fef138865f3268acbebbd9cdcd84c91b7ccb379ebf|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e53accb217ad1fa6431b424ca0f3a97e-1780828200226
-#EXTINF:-1 tvg-id="1090534215" tvg-name="DP World Tour" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018951/1780271759861861_DP_World_Tour_KLM_Open_day4_landscape_thumb.jpg" group-logo="https://ik.imagekit.io/yjtx9nh9y/sony-liv-logo-hd.png" group-title="SonyLiv Events",KLM Open - Day 4 - 7 Jun 2026
-https://dai.google.com/ssai/event/d0oBqiCqSkGDp4wRsUIxqA/master.m3u8?hdnea=exp=1780864208~acl=/*~id=7be929b82b1ab7f91d761e851e46553f-1780821000101~hmac=ffecf6ae8e73fb6f43d165fef138865f3268acbebbd9cdcd84c91b7ccb379ebf|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e53accb217ad1fa6431b424ca0f3a97e-1780828200226
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/skysme.m3u8?md5=BPwDHpv8Q_9qEQq04FIJCA&expires=1780838431
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/Cricket_0706/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9d803a4e1a507abec7b43d21e026993c-1780836600154
+#EXTINF:-1 tvg-id="1090534226" tvg-name="HSBC SVNS Bordeaux 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019323/1780695232264705_SVNS_World_Championship26_Session3_7th_and_5th_Position_Match_4jun_landscape_thumb.jpg" tvg-language="English" group-logo="https://ik.imagekit.io/yjtx9nh9y/sony-liv-logo-hd.png" group-title="SonyLiv Events",ENG | Session 3 - 7th & 5th Position Match - 7 Jun 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000292/HSBC_SVN0706/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9d803a4e1a507abec7b43d21e026993c-1780836600154
+#EXTINF:-1 tvg-id="1090534120" tvg-name="UEFA International Friendlies" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780623632094941_INT_Friendlies26_Liechtenstein_vs_Cyprus_4jun_landscape_thumb.jpg" tvg-language="English" group-logo="https://ik.imagekit.io/yjtx9nh9y/sony-liv-logo-hd.png" group-title="SonyLiv Events",ENG | Liechtenstein vs Cyprus - 7 Jun 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000299/UEFA_Lie0706/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9d803a4e1a507abec7b43d21e026993c-1780836600154
+#EXTINF:-1 tvg-id="1090534215" tvg-name="DP World Tour" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018951/1780271759861861_DP_World_Tour_KLM_Open_day4_landscape_thumb.jpg" tvg-language="English" group-logo="https://ik.imagekit.io/yjtx9nh9y/sony-liv-logo-hd.png" group-title="SonyLiv Events",ENG | KLM Open - Day 4 - 7 Jun 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000295/KLM_Open0706/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9d803a4e1a507abec7b43d21e026993c-1780836600154
+#EXTINF:-1 tvg-id="1090534214" tvg-name="LIV Golf" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019325/1780699436460373_LIV_Golf_Andalucia_Day4_landscape_thumb.jpg" tvg-language="English" group-logo="https://ik.imagekit.io/yjtx9nh9y/sony-liv-logo-hd.png" group-title="SonyLiv Events",ENG | Andalucia - Day 4 - 7 Jun 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000293/Golf_And0706/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9d803a4e1a507abec7b43d21e026993c-1780836600154
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=l7LKW0Zh-6jwE76ZsE4G9w&expires=1780838431
+https://cdn4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=FINdWS7oeEmysa9zwbMX7w&expires=1780847426
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn1.zohanayaan.com:1686/hls/skysme.m3u8?md5=TfAukspX48lrpPKb8RP0Fg&expires=1780847426
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/skysare.m3u8?md5=j7HZHdvuOM7k0KE9tYNE_Q&expires=1780838431
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", England vs New Zealand (SKYSME)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/skysme.m3u8?md5=w8QCUIw0-lc_dviGmb-uaA&expires=1780838432
+https://cdn4.zohanayaan.com:1686/hls/skysare.m3u8?md5=4ytQX-7RqH73SUDYcJ78uQ&expires=1780847426
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", England vs New Zealand (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=byo2RnDz6OLlrPBA-DdV2A&expires=1780838432
+https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=9Y9l5gyRUdZgiYUnAaFhVQ&expires=1780847427
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", England vs New Zealand (SKYSME)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn4.zohanayaan.com:1686/hls/skysme.m3u8?md5=cfPQWa6f64otv2PvaVs8dg&expires=1780847427
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", England vs New Zealand (WILLOWEXTRA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/willowextra.m3u8?md5=pGWZRE5OW1E2zOfztKqUuQ&expires=1780838432
+https://cdn2.zohanayaan.com:1686/hls/willowextra.m3u8?md5=cD1im35rxhyBKdEgIggE3A&expires=1780847427
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", India vs Afghanistan (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=zhSTPjRwmkg_3XPwnh8flg&expires=1780838433
+https://cdn9.zohanayaan.com:1686/hls/willowusa.m3u8?md5=95xR-vZGi3GO6gwi_qzhCA&expires=1780847427
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", India vs Afghanistan (BBTSP3)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=MfZ2n0WTBYH892hLYj78Fg&expires=1780838433
+https://cdn8.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=4dkbr-GgyfS_GqKynMa4aA&expires=1780847427
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Sri%20Lanka.png" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", West Indies vs Sri Lanka (BBTESPN)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=6HShQ4EIIO4CBqYbugtbew&expires=1780838433
-
-#EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/1.jpg" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Sky Sports Main Event
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/skysme.m3u8?md5=H-537UH7LeVIFsJgGWv16Q&expires=1780838589
-
-#EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/3.png" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Sky Sports Cricket
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=I9bv3QHLetLZLzEc9IdtkQ&expires=1780838589
+https://cdn1.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=uFPwp5kKvYoEs-hUBeKEfg&expires=1780847428
 
 #EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/8.png" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Sky Sports Mix
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=Ip9B_vmy_J0SQr6TbplJbw&expires=1780838589
-
-#EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/6.jpg" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Sky Sports Premier League
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/skysprem.m3u8?md5=PokIcXvUymfDFC9T59TXpg&expires=1780838589
-
-#EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/47.png" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Sky Sports Football
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/skysfott.m3u8?md5=F9lvWg4z1XsXLw34L72RCw&expires=1780838589
-
-#EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/9.png" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Sky Sports News
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/skyspnews.m3u8?md5=okomr_fL2KK7Gyr9o-yq-A&expires=1780838589
-
-#EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/4.png" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Sky Sports Action
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/skysact.m3u8?md5=7f91DZ4hntcEd-BJLD2YMw&expires=1780838589
-
-#EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/7.png" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Sky Sports F1
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=9aDU4MJglmiE8-SUBI98PQ&expires=1780838589
+https://cdn3.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=fB0koUn0vSBFQo6DceYyOw&expires=1780847588
 
 #EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/5.png" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Sky Sports Golf
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn9.zohanayaan.com:1686/hls/skysgol.m3u8?md5=ACiImMkHq8J61L87hNQjow&expires=1780838589
+https://cdn6.zohanayaan.com:1686/hls/skysgol.m3u8?md5=dfGY6y9-18jkkmqxiF2aeg&expires=1780847588
+
+#EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/9.png" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Sky Sports News
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn7.zohanayaan.com:1686/hls/skyspnews.m3u8?md5=FQovcYS5Di5gHzWMu1l6Dg&expires=1780847588
+
+#EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/4.png" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Sky Sports Action
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn8.zohanayaan.com:1686/hls/skysact.m3u8?md5=NAfBGkzHBK6ydRHHCTMrGw&expires=1780847588
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Sky_Sports_Tennis.svg/revision/latest/scale-to-width-down/340?cb=20230830104212" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Sky Sports Tennis
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn9.zohanayaan.com:1686/hls/skystennis.m3u8?md5=xKl3XPydG20nuiixjJAeEg&expires=1780838589
+https://cdn6.zohanayaan.com:1686/hls/skystennis.m3u8?md5=AiKIeaTlgtIDva331wza3g&expires=1780847588
 
-#EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/10.gif" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", TNT Sports 1
+#EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/3.png" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Sky Sports Cricket
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=DFZJxQTuNMRbX2Cn3y0NJA&expires=1780838590
+https://cdn5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=-F0PSsjIn3nHW_-4_ehgdw&expires=1780847588
 
-#EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/19.png" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Star Sports 1
+#EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/1.jpg" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Sky Sports Main Event
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/star1in.m3u8?md5=swMyo6z3tslIaj8o8sGJ-w&expires=1780838590
+https://cdn8.zohanayaan.com:1686/hls/skysme.m3u8?md5=_WeAqiEMEFegbTPOTtTp3g&expires=1780847588
+
+#EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/6.jpg" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Sky Sports Premier League
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn9.zohanayaan.com:1686/hls/skysprem.m3u8?md5=xgBUEnfnc1IA0LLLO4sfGA&expires=1780847588
+
+#EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/7.png" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Sky Sports F1
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn4.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=cRMhrR6SRp4Um6Wbzx_3gQ&expires=1780847588
+
+#EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/47.png" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Sky Sports Football
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn9.zohanayaan.com:1686/hls/skysfott.m3u8?md5=YSf_hMtmRZ_AzeNEeuu-mQ&expires=1780847588
 
 #EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/11.gif" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", TNT Sports 2
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn9.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=OGFj2viRscxLkV1F6mGvLw&expires=1780838590
-
-#EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/28.gif" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Viaplay Sports 2 UK
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=0-fedNGn0E9f4iClDkp7gw&expires=1780838590
-
-#EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/54.png" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", LaLiga TV UK
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/laligauk.m3u8?md5=7jd_T2kcEiU9JqNjdGRUxQ&expires=1780838590
+https://cdn10.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=vXsvXd9eiKpGQOCcWAYc4Q&expires=1780847589
 
 #EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/12.gif" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", TNT Sports 3
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=5zC2P1aAdXx2aOk0j7tmbQ&expires=1780838590
+https://cdn4.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=0eD-CrUxCOPq6qdsUZuDbw&expires=1780847589
 
-#EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/13.gif" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", TNT Sports 4
+#EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/54.png" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", LaLiga TV UK
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=odm8vQtgpGJiJedU9dEb3g&expires=1780838590
+https://cdn5.zohanayaan.com:1686/hls/laligauk.m3u8?md5=KxFXqDtD2qBQmvUC3643Gw&expires=1780847589
 
 #EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/18.png" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", PTV Sports
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=yR6oKo6GqQb5EjosPQTY_A&expires=1780838590
+https://cdn3.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=aXDFzUX7d0I5f6dsAnrXOg&expires=1780847589
+
+#EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/28.gif" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Viaplay Sports 2 UK
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn8.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=ps9HtkiCbVV2Auelk_MkAA&expires=1780847589
+
+#EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/19.png" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Star Sports 1
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn7.zohanayaan.com:1686/hls/star1in.m3u8?md5=CZi1lSCVvLXnlkNg42mLJw&expires=1780847589
+
+#EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/13.gif" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", TNT Sports 4
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn7.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=TIkQAIeeBnd7LShoeezsVw&expires=1780847589
+
+#EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/10.gif" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", TNT Sports 1
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn8.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=ujrNyDTCat8E4ZA_NKrsVw&expires=1780847589
 
 #EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/17.gif" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Viaplay Sports 1 UK
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn9.zohanayaan.com:1686/hls/premieruk.m3u8?md5=eSdIFatdBelllf8_pBszxw&expires=1780838590
+https://cdn6.zohanayaan.com:1686/hls/premieruk.m3u8?md5=A3YU9rDvaZH2r5pAs9wzdw&expires=1780847589
 
 #EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/20.png" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Willow Cricket
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=sYczCkeLaVprIOMcRsSKxg&expires=1780838610
-
-#EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/147.png" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", ESPN US
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/espnusa.m3u8?md5=db_RzwJm62IeZYTMObU2bQ&expires=1780838610
-
-#EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/51.gif" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Star Sports 1 Hindi
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/starhindi.m3u8?md5=ccbjNHMalyZLVwPbxcFEfQ&expires=1780838610
+https://cdn2.zohanayaan.com:1686/hls/willowusa.m3u8?md5=T_HChyWD8Nq1XD6PqIZUtA&expires=1780847609
 
 #EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/50.gif" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Ten Sports
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/tenspk.m3u8?md5=S2P7rER0ePwFowMWAwZ6dQ&expires=1780838611
+https://cdn7.zohanayaan.com:1686/hls/tenspk.m3u8?md5=ehp3AtYDsxX4r7KlTO6Cxw&expires=1780847609
 
 #EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/55.png" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Willow Cricket Extra
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/willowextra.m3u8?md5=cbFtQpIywpbT2X-xtkj94A&expires=1780838611
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Sky Sport 1 NZ
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/sky1nz.m3u8?md5=9X_uqHAYKZza9C1Ue39c6w&expires=1780838611
-
-#EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/148.png" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", ESPN 2 US
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn9.zohanayaan.com:1686/hls/espn2.m3u8?md5=JpVVhkqjrtfv8LmQJLQ7Pg&expires=1780838611
+https://cdn3.zohanayaan.com:1686/hls/willowextra.m3u8?md5=Yt1swLeD4c0FchvMCFlDaQ&expires=1780847609
 
 #EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/56.png" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", A Sports HD
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/asportshd.m3u8?md5=gEbiPnUubSzIgb08kCtTRA&expires=1780838611
+https://cdn10.zohanayaan.com:1686/hls/asportshd.m3u8?md5=dc3X0r2jlDp6af_4ztLNIw&expires=1780847609
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Sky Sport 5 NZ
+#EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/51.gif" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Star Sports 1 Hindi
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/sky5nz.m3u8?md5=4J1fnYZR-bpgQpTpXkj1sA&expires=1780838611
+https://cdn1.zohanayaan.com:1686/hls/starhindi.m3u8?md5=NDNFGyk7DOza8RyKuLCpGA&expires=1780847609
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Sky Sport 4 NZ
+#EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/148.png" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", ESPN 2 US
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/sky4nz.m3u8?md5=Azzo3_C8SJMCcTXyEEJN-g&expires=1780838611
+https://cdn10.zohanayaan.com:1686/hls/espn2.m3u8?md5=XA9W8mglNOr-j2jPOyVx_g&expires=1780847609
+
+#EXTINF:-1 tvg-logo="https://fb.crichd.tv/assets/uploads/channels/147.png" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", ESPN US
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn10.zohanayaan.com:1686/hls/espnusa.m3u8?md5=sHCAFs6DzzWfePyclDyR-g&expires=1780847609
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Sky Sport 1 NZ
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn3.zohanayaan.com:1686/hls/sky1nz.m3u8?md5=Wh0_kfylVevNxXFLMa46HA&expires=1780847609
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Sky Sport 2 NZ
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/sky2nz.m3u8?md5=4F4l4TJtgMlBBRaqsCFKNQ&expires=1780838611
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Sky Sport 6 NZ
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/sky6nz.m3u8?md5=EAfYI-RGqdpDeCSs_JaMIQ&expires=1780838611
+https://cdn2.zohanayaan.com:1686/hls/sky2nz.m3u8?md5=d8cd6lzEF7xLb8cPaYM75g&expires=1780847610
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Sky Sport 3 NZ
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/sky3nz.m3u8?md5=X0dimXogXm7wsogb2YC1fA&expires=1780838611
+https://cdn3.zohanayaan.com:1686/hls/sky3nz.m3u8?md5=XTG30WvKuE58zFzFQcljjw&expires=1780847610
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Sky Sport 7 NZ
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Sky Sport 4 NZ
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/sky7nz.m3u8?md5=-tKF8NtfrpI9ykWfyBhB5g&expires=1780838612
+https://cdn9.zohanayaan.com:1686/hls/sky4nz.m3u8?md5=eJzF5U75DqMiZZLB0gjPhA&expires=1780847610
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Sky Sport 5 NZ
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn8.zohanayaan.com:1686/hls/sky5nz.m3u8?md5=Hje1xQqP5KJFDx9MqpNliw&expires=1780847610
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Sky Sport 6 NZ
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn7.zohanayaan.com:1686/hls/sky6nz.m3u8?md5=n3CYS86KV9mfMOEq-A3yqw&expires=1780847610
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Sky Sport 9 NZ
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/sky9nz.m3u8?md5=TfIvOpjG_NHVT0ovV55Xjw&expires=1780838612
+https://cdn9.zohanayaan.com:1686/hls/sky9nz.m3u8?md5=YFcjJB2u5bzdzumYP3H5nA&expires=1780847610
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Sky Sport 7 NZ
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn8.zohanayaan.com:1686/hls/sky7nz.m3u8?md5=bR_VWgukRGgJtYSUrFId1g&expires=1780847610
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Sky Sport 8 NZ
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/sky8nz.m3u8?md5=rnZAUC6gFdBbWo3aPkba0Q&expires=1780838612
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/BeIN_Sports_2017_flat.svg/revision/latest/scale-to-width-down/300?cb=20230910182143" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", BeIn Sports USA
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn9.zohanayaan.com:1686/hls/beinusas.m3u8?md5=i7FRbScOa8SlOzpNk1HLFw&expires=1780838631
+https://cdn5.zohanayaan.com:1686/hls/sky8nz.m3u8?md5=uvs_ZNwZbAgTa7HRRhiZEQ&expires=1780847610
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Fox_Sports_2012.svg/revision/latest/scale-to-width-down/250?cb=20260204234819" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Fox Deportes
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/foxdeportesas1.m3u8?md5=Ti1iWoWfUp1mz4CZEGrTog&expires=1780838631
+https://cdn8.zohanayaan.com:1686/hls/foxdeportesas1.m3u8?md5=2Uvs-Z4DQ9xKHwcaOzgxUQ&expires=1780847621
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/BeIN_Sports_2017_flat.svg/revision/latest/scale-to-width-down/300?cb=20230910182143" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", BeIn Sports USA
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn10.zohanayaan.com:1686/hls/beinusas.m3u8?md5=IEX4RIUMX6SyfPANxxHMew&expires=1780847621
 
 #EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/1200x628/profile/0/b/8/4/638c-6c4d-4572-b452-cc4468b2f1e2" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Telemundo
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/telmunda.m3u8?md5=Tedus3dghMax1RMj9X2jfQ&expires=1780838632
-
-#EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/1200x628/profile/0/b/8/4/638c-6c4d-4572-b452-cc4468b2f1e2" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", NBC
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/nbccs.m3u8?md5=tC_19kk9RpVQ7KnVBS9Y7w&expires=1780838632
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Fox_Sports_2012.svg/revision/latest/scale-to-width-down/250?cb=20260204234819" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Fox Sports 2 US
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/foxsp2usa.m3u8?md5=8YIMSwpdctkksG3CFnBH3A&expires=1780838632
+https://cdn5.zohanayaan.com:1686/hls/telmunda.m3u8?md5=SO2yS2jjiTyAs42K6EKJ7g&expires=1780847622
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Fox_Sports_2012.svg/revision/latest/scale-to-width-down/250?cb=20260204234819" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Fox Sports 1 US
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/foxsp1usa.m3u8?md5=ZQjUF0fb-Cy8tvAb3Sx_lw&expires=1780838632
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/TUDN.svg/revision/latest/scale-to-width-down/250?cb=20230127192854" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", TUDN USA
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/tudnusas.m3u8?md5=qiGH6S0BFsdqbkykBXUVwA&expires=1780838632
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Vamos_por_Movistar_Plus+_2023.svg/revision/latest/scale-to-width-down/315?cb=20230728170813" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Movistar #Vamos
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/mvamoss.m3u8?md5=uCRrnxoqpdNnRpnCQuXeLA&expires=1780838632
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Vamos_por_Movistar_Plus+_2023.svg/revision/latest/scale-to-width-down/315?cb=20230728170813" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Movistar Deportes
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/mdeportess.m3u8?md5=LlaO_jhSFQuIomURjF9blw&expires=1780838632
+https://cdn2.zohanayaan.com:1686/hls/foxsp1usa.m3u8?md5=LI7ooYT3Fl_7rxzoZFC_GA&expires=1780847622
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DAZN_2019_logo.svg/revision/latest/scale-to-width-down/200?cb=20210824002335" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", DAZN 1 Spain
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/dazn1sp1.m3u8?md5=myeSQI16mWvJSHuTGQ0x5A&expires=1780838632
+https://cdn4.zohanayaan.com:1686/hls/dazn1sp1.m3u8?md5=gRnJYzM2Al5iIHx_8pEdgg&expires=1780847622
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Vamos_por_Movistar_Plus+_2023.svg/revision/latest/scale-to-width-down/315?cb=20230728170813" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Movistar Deportes
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn6.zohanayaan.com:1686/hls/mdeportess.m3u8?md5=csSuM9Ccf-ndk0Zfqq0AHw&expires=1780847622
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Fox_Sports_2012.svg/revision/latest/scale-to-width-down/250?cb=20260204234819" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Fox Sports 2 US
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn7.zohanayaan.com:1686/hls/foxsp2usa.m3u8?md5=QG-W8Ve3dTK8EBefTQydSQ&expires=1780847622
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Vamos_por_Movistar_Plus+_2023.svg/revision/latest/scale-to-width-down/315?cb=20230728170813" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Movistar #Vamos
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn10.zohanayaan.com:1686/hls/mvamoss.m3u8?md5=IoO45UBuSf5KPGsTkPETqg&expires=1780847622
+
+#EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/1200x628/profile/0/b/8/4/638c-6c4d-4572-b452-cc4468b2f1e2" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", NBC
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn7.zohanayaan.com:1686/hls/nbccs.m3u8?md5=P9EBMnpJkzm948WemVR_ag&expires=1780847622
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/TUDN.svg/revision/latest/scale-to-width-down/250?cb=20230127192854" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", TUDN USA
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn10.zohanayaan.com:1686/hls/tudnusas.m3u8?md5=SfTNEnXD9vGEKkbEAtC3RA&expires=1780847622
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DAZN_2019_logo.svg/revision/latest/scale-to-width-down/200?cb=20210824002335" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", DAZN 2 Spain
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/dazn2sp2.m3u8?md5=m8b5OQjMwERE4g2lHq9mmA&expires=1780838632
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/LaLiga_TV_Hypermotion.svg/revision/latest/scale-to-width-down/250?cb=20230704141115" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", LaLiga TV Hypermotion
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/laligatvhyper1.m3u8?md5=PODf8Yzm4mj077yKzS_n4Q&expires=1780838633
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DAZN_2019_logo.svg/revision/latest/scale-to-width-down/200?cb=20210824002335" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", DAZN 4 Spain
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/dazn4sp4.m3u8?md5=oH5uzlGcNzZZgOjwrm6sgg&expires=1780838633
+https://cdn4.zohanayaan.com:1686/hls/dazn2sp2.m3u8?md5=HZTdrsIaydymP7UXIccvOg&expires=1780847622
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DAZN_2019_logo.svg/revision/latest/scale-to-width-down/200?cb=20210824002335" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", DAZN 3 Spain
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/dazn3sp3.m3u8?md5=gottM39DYjXVABqAF3Mv1g&expires=1780838633
+https://cdn2.zohanayaan.com:1686/hls/dazn3sp3.m3u8?md5=cxeItzaw4yKUdhVf3Nh_Ww&expires=1780847622
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Itv2024.svg/revision/latest/scale-to-width-down/250?cb=20250608152944" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", ITV 1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DAZN_2019_logo.svg/revision/latest/scale-to-width-down/200?cb=20210824002335" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", DAZN 4 Spain
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/hdchnl4.m3u8?md5=Cxbdi04oMsN2XRlTWVTI5g&expires=1780838633
+https://cdn7.zohanayaan.com:1686/hls/dazn4sp4.m3u8?md5=cK6jt2MjJ4l4bGhxjNo76A&expires=1780847622
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/La_Liga_Hypermotion_2.svg/revision/latest/scale-to-width-down/250?cb=20240921151926" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", LaLiga TV Hypermotion 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/LaLiga_TV_Hypermotion.svg/revision/latest/scale-to-width-down/250?cb=20230704141115" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", LaLiga TV Hypermotion
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/laligatvhyper2.m3u8?md5=-oCGP2eOX6sSg17ieFBwIA&expires=1780838633
+https://cdn2.zohanayaan.com:1686/hls/laligatvhyper1.m3u8?md5=2cFY_Pz4p-sdA3-ku1ERTA&expires=1780847622
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Itv2024.svg/revision/latest/scale-to-width-down/250?cb=20250608152944" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", ITV4
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/itv4.m3u8?md5=2T44h7WkUnjV30ra4UErag&expires=1780838633
+https://cdn5.zohanayaan.com:1686/hls/itv4.m3u8?md5=fMGAhls-9yzNoVi1Zep0fg&expires=1780847623
 
-#EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/1200x628/profile/0/b/8/4/638c-6c4d-4572-b452-cc4468b2f1e2" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", BBC Two
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/La_Liga_Hypermotion_2.svg/revision/latest/scale-to-width-down/250?cb=20240921151926" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", LaLiga TV Hypermotion 2
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/hdchnl5.m3u8?md5=zvC7qMrn82M14O1JDnLagg&expires=1780838652
+https://cdn3.zohanayaan.com:1686/hls/laligatvhyper2.m3u8?md5=apF57KHajTddr-_jSCVM8Q&expires=1780847623
 
 #EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/1200x628/profile/0/b/8/4/638c-6c4d-4572-b452-cc4468b2f1e2" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", BBC One
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/hdchnl1.m3u8?md5=mnmnLCvSTygOH79ox7V5cQ&expires=1780838652
+https://cdn2.zohanayaan.com:1686/hls/hdchnl1.m3u8?md5=R3BJoqR32eNWGJmwNcOlMQ&expires=1780847623
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Itv2024.svg/revision/latest/scale-to-width-down/250?cb=20250608152944" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", ITV 1
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn7.zohanayaan.com:1686/hls/hdchnl4.m3u8?md5=mKaCnHxK3dmQq3l52J9tqg&expires=1780847634
+
+#EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/1200x628/profile/0/b/8/4/638c-6c4d-4572-b452-cc4468b2f1e2" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", BBC Two
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn6.zohanayaan.com:1686/hls/hdchnl5.m3u8?md5=M145f5Rw2MuMH1fUhjqDaw&expires=1780847634
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Fox_Sports_2012.svg/revision/latest/scale-to-width-down/250?cb=20260204234819" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", Fox Soccer Plus
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/foxsoccer.m3u8?md5=KYua9fO_exQXCodTg1TSqA&expires=1780838653
+https://cdn2.zohanayaan.com:1686/hls/foxsoccer.m3u8?md5=lSQhFy9dovbKptn5RjfGwQ&expires=1780847634
 
 #EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/1200x628/profile/0/b/8/4/638c-6c4d-4572-b452-cc4468b2f1e2" group-title="CricHD" group-logo="https://ik.imagekit.io/yjtx9nh9y/images%20(2).jpeg", ESPN Deportes
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/espndeportess.m3u8?md5=2lYB0T5H-AWVrQHozBtVsg&expires=1780838653
+https://cdn4.zohanayaan.com:1686/hls/espndeportess.m3u8?md5=n-QFOqdt1dX6mpSmYpfEMQ&expires=1780847635
 
 #EXTINF:-1 tvg-id="fifa-no-live" tvg-logo="https://ik.imagekit.io/yjtx9nh9y/Black%20White%20Minimal%20Simple%20Modern%20Pixel%20Neon%20%20Modern%20AI%20Logo.png?updatedAt=1780156943081" group-title="FIFA Plus" group-logo="https://ik.imagekit.io/yjtx9nh9y/images.png",No Live Matches on FIFA Plus Right Now
 https://cartelended.vercel.app/cartelended.m3u8
