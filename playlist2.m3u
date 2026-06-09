@@ -103,11 +103,10 @@ https://livetv.hotstar.com/mp1/gec-india/4651958e6bd142a48cf1b512257b130a/index_
 
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Tuesday, 9 June 2026 at 8:07:12 pm
+#DATE:- Tuesday, 9 June 2026 at 11:42:13 pm
 
-#DATE:- 09-06-2026 19:15
+#DATE:- 09-06-2026 23:30
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-# Join us on Telegram: https://t.me/jitendraunatti_github
 
 
 
@@ -12141,7 +12140,7 @@ https://livetv.hotstar.com/mp1/gec-india/4651958e6bd142a48cf1b512257b130a/index_
 
 
 
-#DATE:- 09-06-2026 21:20
+#DATE:- 10-06-2026 00:20
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
 
@@ -16249,36 +16248,8 @@ http://103.175.73.12:8080/live/151/151_0.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 http://103.175.73.12:8080/live/280/master.m3u8
-#EXTINF:-1 tvg-id="142994" tvg-name="Up Brij Stars Vs Southern Spartans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142994_6094_UPBS_SS_FC-WEB_1780318028429.jpg" group-title="Fancode♦️Cricket" group-logo="https://yowaimo.in/Logo/Fan.png",ENG | Up Brij Stars Vs Southern Spartans
-https://dai-fancode.pages.dev/mumbai/142994_english_hls_f304aa51ef86975_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="143156" tvg-name="Jb Bruges Vs Antwerp Anchors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143156_6108_JB_AA_FC-Web.png" group-title="Fancode♦️Cricket" group-logo="https://yowaimo.in/Logo/Fan.png",ENG | Jb Bruges Vs Antwerp Anchors
-https://dai-fancode.pages.dev/mumbai/143156_english_hls_7f582ebd9f475_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="143126" tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png" group-title="Fancode♦️Tennis" group-logo="https://yowaimo.in/Logo/Fan.png",ENG | Day 2
-https://dai-fancode.pages.dev/mumbai/143126_english_hls_b61605301b66122_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="143119" tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png" group-title="Fancode♦️Tennis" group-logo="https://yowaimo.in/Logo/Fan.png",ENG | Day 2
 https://dai-fancode.pages.dev/mumbai/143119_english_hls_1329becddb63658_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="143350" tvg-name="Day 2   Court 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png" group-title="Fancode♦️Tennis" group-logo="https://yowaimo.in/Logo/Fan.png",ENG | Day 2   Court 1
-https://dai-fancode.pages.dev/mumbai/143350_english_hls_bc79d6d40f49864_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="e2274631-38b3-4050-9557-52d78c79d23d" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/v7plenymutqbjrmqsuln" tvg-lang="English" group-title="ICC TV🏏Cricket" group-logo="https://yowaimo.in/Logo/ICCTV.png",English | WT20 Warm-Ups: South Africa v New Zealand
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/hdntl=exp=1781041509~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=1299d8bcca82186ef43268372c0e77b079cbbe28e2f1afe94aa91007e3e6363c/manifest.mpd?vcfilter=e2274631-38b3-4050-9557-52d78c79d23d&powered_by=jay_shree_ram
-#EXTINF:-1 tvg-id="5687bc54-677e-4120-a86f-907c4f594c53" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/l6p79e2sbqzhkinzrggx" tvg-lang="English" group-title="ICC TV🏏Cricket" group-logo="https://yowaimo.in/Logo/ICCTV.png",English | WT20 Warm-Ups: Netherlands v Sri Lanka
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1781041513~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=e389ba3e53fc3b2a4548fded7b37e8d87cc7e41f3dc14b4192072d8022cbbb04/manifest.mpd?vcfilter=5687bc54-677e-4120-a86f-907c4f594c53&powered_by=jay_shree_ram
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7415/567415-h" group-title="JioHotstar⭐️Entertainment" group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/v1737554969/web-assets/prod/images/rebrand/logo.png",StarPlus
 #EXTHTTP:{"Cookie":"hdntl=exp=1781061559~acl=%2f*~id=e6a2b4917b0a9b00ffd1674aed54f389~data=hdntl~hmac=6fa8c2afd99b2dcd61e111f495696cc0c943a4d2cad76fb53d3c4064f932c3fb","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 #KODIPROP:inputstream=inputstream.adaptive
@@ -22140,54 +22111,54 @@ https://yowaimo.in/GeoTv/3274/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/GeoTv/key1142
 https://yowaimo.in/GeoTv/1142/manifest.mpd
-#EXTINF:-1 tvg-id="1090534456" tvg-name="UEFA International Friendlies" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780624346659941_INT_Friendlies26_Armenia_vs_Moldova_4jun_landscape_thumb.jpg" group-title="LivEvents-Football" group-logo="http://Yowaimo.in/Logo/SLIV.png",ENG | Armenia vs Moldova  - 9 Jun 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000291/IF_Armen0906/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=19dc7940b74620896d13960f26e9ce13-1781020200128
-#EXTINF:-1 tvg-id="1090534457" tvg-name="UEFA International Friendlies" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780627874146941_INT_Friendlies26_Belarus_vs_Burkina_Faso_4jun_landscape_thumb.jpg" group-title="LivEvents-Football" group-logo="http://Yowaimo.in/Logo/SLIV.png",ENG | Belarus vs Burkina Faso  - 9 Jun 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000296/IF_Belar0906/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=19dc7940b74620896d13960f26e9ce13-1781020200128
-#EXTINF:-1 tvg-id="1090534434" tvg-name="Chhattisgarh Cricket Premier League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019418/178086321650285_CCPL26_Raipur_Rhinos_vs_Raigarh_Lions_landscape_thumb.jpg" group-title="LivEvents🎗Cricket" group-logo="http://Yowaimo.in/Logo/SLIV.png",HIN | Raipur Rhinos vs Raigarh Lions - 9 Jun 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/criclive0906/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=19dc7940b74620896d13960f26e9ce13-1781020200128
+#EXTINF:-1 tvg-id="1090534474" tvg-name="Vitality Blast 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019230/1780608006324719_VITALITY_BLAST_2026_Essex_vs_Kent_5jun_landscape_thumb.jpg" group-title="LivEvents🎗Cricket" group-logo="http://Yowaimo.in/Logo/SLIV.png",ENG | Essex vs Kent - 9 Jun 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000297/criclive0906/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ee148732dd5d275a78371582e70caa2d-1781031000123
+#EXTINF:-1 tvg-id="1090534458" tvg-name="UEFA International Friendlies" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780624461373941_INT_Friendlies26_Hungary_vs_Kazakhstan_4jun_landscape_thumb.jpg" group-title="LivEvents🎗Football" group-logo="http://Yowaimo.in/Logo/SLIV.png",ENG | Hungary vs Kazakhstan  - 9 Jun 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000292/IF_Hunga0906/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ee148732dd5d275a78371582e70caa2d-1781031000123
+#EXTINF:-1 tvg-id="1090534459" tvg-name="UEFA International Friendlies" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780625329802941_INT_Friendlies26_Azerbaijan_vs_San_Marino_4jun_landscape_thumb.jpg" group-title="LivEvents🎗Football" group-logo="http://Yowaimo.in/Logo/SLIV.png",ENG | Azerbaijan vs San Marino - 9 Jun 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000293/IF_Azerb0906/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ee148732dd5d275a78371582e70caa2d-1781031000123
 #EXTINF:-1 group-title="SonyLiv🎗Entertainment" tvg-id="1000009246" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/4_244.png" group-logo="http://yowaimo.in/Logo/SLIV.png",SET HD
-https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1781057012~acl=/*~id=02780446526436963170015406890748~hmac=d356e808aa6128d12fb8fb9d95d4e3571dd12844b39543a1dc5750c43fb13064
+https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1781066154~acl=/*~id=32174845235618545167990268050199~hmac=3d8c0818c9d6a87713f4b809446db8c3a7a4cf9508fd3edaeb0b776a2159c69c
 #EXTINF:-1 group-title="SonyLiv🎗Entertainment" tvg-id="1000009248" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/33_247.png" group-logo="http://yowaimo.in/Logo/SLIV.png",Sony SAB HD
-https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1781057012~acl=/*~id=02780446526436963170015406890748~hmac=d356e808aa6128d12fb8fb9d95d4e3571dd12844b39543a1dc5750c43fb13064
+https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1781066154~acl=/*~id=32174845235618545167990268050199~hmac=3d8c0818c9d6a87713f4b809446db8c3a7a4cf9508fd3edaeb0b776a2159c69c
 #EXTINF:-1 group-title="SonyLiv🎗Entertainment" tvg-id="1000009259" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/36_260.png" group-logo="http://yowaimo.in/Logo/SLIV.png",Sony Marathi
-https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1781057012~acl=/*~id=02780446526436963170015406890748~hmac=d356e808aa6128d12fb8fb9d95d4e3571dd12844b39543a1dc5750c43fb13064
+https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1781066154~acl=/*~id=32174845235618545167990268050199~hmac=3d8c0818c9d6a87713f4b809446db8c3a7a4cf9508fd3edaeb0b776a2159c69c
 #EXTINF:-1 group-title="SonyLiv🎗Entertainment" tvg-id="1000009273" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/6_257.png" group-logo="http://yowaimo.in/Logo/SLIV.png",Sony Pal
-https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1781057012~acl=/*~id=02780446526436963170015406890748~hmac=d356e808aa6128d12fb8fb9d95d4e3571dd12844b39543a1dc5750c43fb13064
+https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1781066154~acl=/*~id=32174845235618545167990268050199~hmac=3d8c0818c9d6a87713f4b809446db8c3a7a4cf9508fd3edaeb0b776a2159c69c
 #EXTINF:-1 group-title="SonyLiv🎗Entertainment" tvg-id="1000009255" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/9_255.png" group-logo="http://yowaimo.in/Logo/SLIV.png",Sony Aath
-https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1781057012~acl=/*~id=02780446526436963170015406890748~hmac=d356e808aa6128d12fb8fb9d95d4e3571dd12844b39543a1dc5750c43fb13064
+https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1781066154~acl=/*~id=32174845235618545167990268050199~hmac=3d8c0818c9d6a87713f4b809446db8c3a7a4cf9508fd3edaeb0b776a2159c69c
 #EXTINF:-1 group-title="SonyLiv🎗Kids" tvg-id="1000001971" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/12_259.png" group-logo="http://yowaimo.in/Logo/SLIV.png",Sony Yay
-https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1781057012~acl=/*~id=02780446526436963170015406890748~hmac=d356e808aa6128d12fb8fb9d95d4e3571dd12844b39543a1dc5750c43fb13064
+https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1781066154~acl=/*~id=32174845235618545167990268050199~hmac=3d8c0818c9d6a87713f4b809446db8c3a7a4cf9508fd3edaeb0b776a2159c69c
 #EXTINF:-1 group-title="SonyLiv🎗Movies" tvg-id="1000009247" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/35_249.png" group-logo="http://yowaimo.in/Logo/SLIV.png",Sony MAX HD
-https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1781057012~acl=/*~id=02780446526436963170015406890748~hmac=d356e808aa6128d12fb8fb9d95d4e3571dd12844b39543a1dc5750c43fb13064
+https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1781066154~acl=/*~id=32174845235618545167990268050199~hmac=3d8c0818c9d6a87713f4b809446db8c3a7a4cf9508fd3edaeb0b776a2159c69c
 #EXTINF:-1 group-title="SonyLiv🎗Movies" tvg-id="1000009249" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/1_248.png" group-logo="http://yowaimo.in/Logo/SLIV.png",Sony MAX
-https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1781057012~acl=/*~id=02780446526436963170015406890748~hmac=d356e808aa6128d12fb8fb9d95d4e3571dd12844b39543a1dc5750c43fb13064
+https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1781066154~acl=/*~id=32174845235618545167990268050199~hmac=3d8c0818c9d6a87713f4b809446db8c3a7a4cf9508fd3edaeb0b776a2159c69c
 #EXTINF:-1 group-title="SonyLiv🎗Movies" tvg-id="1000009253" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/2_250.png" group-logo="http://yowaimo.in/Logo/SLIV.png",Sony MAX 2
-https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1781057012~acl=/*~id=02780446526436963170015406890748~hmac=d356e808aa6128d12fb8fb9d95d4e3571dd12844b39543a1dc5750c43fb13064
+https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1781066154~acl=/*~id=32174845235618545167990268050199~hmac=3d8c0818c9d6a87713f4b809446db8c3a7a4cf9508fd3edaeb0b776a2159c69c
 #EXTINF:-1 group-title="SonyLiv🎗Movies" tvg-id="1000044878" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/10_258.png" group-logo="http://yowaimo.in/Logo/SLIV.png",Sony WAH
-https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1781057012~acl=/*~id=02780446526436963170015406890748~hmac=d356e808aa6128d12fb8fb9d95d4e3571dd12844b39543a1dc5750c43fb13064
+https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1781066154~acl=/*~id=32174845235618545167990268050199~hmac=3d8c0818c9d6a87713f4b809446db8c3a7a4cf9508fd3edaeb0b776a2159c69c
 #EXTINF:-1 group-title="SonyLiv🎗Movies" tvg-id="1000009258" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/34_252.png" group-logo="http://yowaimo.in/Logo/SLIV.png",Sony PIX HD
-https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1781057012~acl=/*~id=02780446526436963170015406890748~hmac=d356e808aa6128d12fb8fb9d95d4e3571dd12844b39543a1dc5750c43fb13064
+https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1781066154~acl=/*~id=32174845235618545167990268050199~hmac=3d8c0818c9d6a87713f4b809446db8c3a7a4cf9508fd3edaeb0b776a2159c69c
 #EXTINF:-1 group-title="SonyLiv🎗Sports" tvg-id="1000009276" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/21_266.png" group-logo="http://yowaimo.in/Logo/SLIV.png",Sony Sports Ten 1 HD
-https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1781057012~acl=/*~id=02780446526436963170015406890748~hmac=d356e808aa6128d12fb8fb9d95d4e3571dd12844b39543a1dc5750c43fb13064
+https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1781066154~acl=/*~id=32174845235618545167990268050199~hmac=3d8c0818c9d6a87713f4b809446db8c3a7a4cf9508fd3edaeb0b776a2159c69c
 #EXTINF:-1 group-title="SonyLiv🎗Sports" tvg-id="1000009280" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png" group-logo="http://yowaimo.in/Logo/SLIV.png",Sony Sports Ten 1
-https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8?hdnea=exp=1781057012~acl=/*~id=02780446526436963170015406890748~hmac=d356e808aa6128d12fb8fb9d95d4e3571dd12844b39543a1dc5750c43fb13064
+https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8?hdnea=exp=1781066154~acl=/*~id=32174845235618545167990268050199~hmac=3d8c0818c9d6a87713f4b809446db8c3a7a4cf9508fd3edaeb0b776a2159c69c
 #EXTINF:-1 group-title="SonyLiv🎗Sports" tvg-id="1000009279" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/22_261.png" group-logo="http://yowaimo.in/Logo/SLIV.png",Sony Sports Ten 2
-https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8?hdnea=exp=1781057012~acl=/*~id=02780446526436963170015406890748~hmac=d356e808aa6128d12fb8fb9d95d4e3571dd12844b39543a1dc5750c43fb13064
+https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8?hdnea=exp=1781066154~acl=/*~id=32174845235618545167990268050199~hmac=3d8c0818c9d6a87713f4b809446db8c3a7a4cf9508fd3edaeb0b776a2159c69c
 #EXTINF:-1 group-title="SonyLiv🎗Sports" tvg-id="1000009283" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/24_274.png" group-logo="http://yowaimo.in/Logo/SLIV.png",Sony Sports Ten 3
-https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8?hdnea=exp=1781057012~acl=/*~id=02780446526436963170015406890748~hmac=d356e808aa6128d12fb8fb9d95d4e3571dd12844b39543a1dc5750c43fb13064
+https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8?hdnea=exp=1781066154~acl=/*~id=32174845235618545167990268050199~hmac=3d8c0818c9d6a87713f4b809446db8c3a7a4cf9508fd3edaeb0b776a2159c69c
 #EXTINF:-1 group-title="SonyLiv🎗Sports" tvg-id="1000119187" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/38_275.png" group-logo="http://yowaimo.in/Logo/SLIV.png",Sony Sports Ten 4
-https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1781057012~acl=/*~id=02780446526436963170015406890748~hmac=d356e808aa6128d12fb8fb9d95d4e3571dd12844b39543a1dc5750c43fb13064
+https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1781066154~acl=/*~id=32174845235618545167990268050199~hmac=3d8c0818c9d6a87713f4b809446db8c3a7a4cf9508fd3edaeb0b776a2159c69c
 #EXTINF:-1 group-title="SonyLiv🎗Sports" tvg-id="1000009281" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/18_265.png" group-logo="http://yowaimo.in/Logo/SLIV.png",Sony Sports Ten 5
-https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1781057012~acl=/*~id=02780446526436963170015406890748~hmac=d356e808aa6128d12fb8fb9d95d4e3571dd12844b39543a1dc5750c43fb13064
+https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1781066154~acl=/*~id=32174845235618545167990268050199~hmac=3d8c0818c9d6a87713f4b809446db8c3a7a4cf9508fd3edaeb0b776a2159c69c
 #EXTINF:-1 group-title="SonyLiv🎗Sports" tvg-id="1000009277" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/23_267.png" group-logo="http://yowaimo.in/Logo/SLIV.png",Sony Sports Ten 2 HD
-https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1781057012~acl=/*~id=02780446526436963170015406890748~hmac=d356e808aa6128d12fb8fb9d95d4e3571dd12844b39543a1dc5750c43fb13064
+https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1781066154~acl=/*~id=32174845235618545167990268050199~hmac=3d8c0818c9d6a87713f4b809446db8c3a7a4cf9508fd3edaeb0b776a2159c69c
 #EXTINF:-1 group-title="SonyLiv🎗Sports" tvg-id="1000009278" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/25_276.png" group-logo="http://yowaimo.in/Logo/SLIV.png",Sony Sports Ten 3 HD
-https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1781057012~acl=/*~id=02780446526436963170015406890748~hmac=d356e808aa6128d12fb8fb9d95d4e3571dd12844b39543a1dc5750c43fb13064
+https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1781066154~acl=/*~id=32174845235618545167990268050199~hmac=3d8c0818c9d6a87713f4b809446db8c3a7a4cf9508fd3edaeb0b776a2159c69c
 #EXTINF:-1 group-title="SonyLiv🎗Sports" tvg-id="1000119186" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/39_277.png" group-logo="http://yowaimo.in/Logo/SLIV.png",Sony Sports Ten 4 HD
-https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1781057012~acl=/*~id=02780446526436963170015406890748~hmac=d356e808aa6128d12fb8fb9d95d4e3571dd12844b39543a1dc5750c43fb13064
+https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1781066154~acl=/*~id=32174845235618545167990268050199~hmac=3d8c0818c9d6a87713f4b809446db8c3a7a4cf9508fd3edaeb0b776a2159c69c
 #EXTINF:-1 group-title="SonyLiv🎗Sports" tvg-id="1000009275" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/39_277.png" group-logo="http://yowaimo.in/Logo/SLIV.png",Sony Sports Ten 4 HD
-https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1781057012~acl=/*~id=02780446526436963170015406890748~hmac=d356e808aa6128d12fb8fb9d95d4e3571dd12844b39543a1dc5750c43fb13064
+https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1781066154~acl=/*~id=32174845235618545167990268050199~hmac=3d8c0818c9d6a87713f4b809446db8c3a7a4cf9508fd3edaeb0b776a2159c69c
 #EXTINF:-1 tvg-id="1856" tvg-logo="http://greenpa1.com/fox.png" group-title="StarShare✨️CRICKET" group-logo="https://yowaimo.in/Logo/SSHARE.png",CRIC || FOX CRIC 501 ᴴᴰ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C)
