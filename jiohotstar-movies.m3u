@@ -1,0 +1,68 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7403/567403-h" group-title="JioHotstar⭐️Movies",Star Gold
+#EXTHTTP:{"Cookie":"hdntl=exp=1781817976~acl=%2f*~id=4e284734402fa4863319290350b065df~data=hdntl~hmac=c28be1c7a9a822583f676e65c1d22011f488bd9dee7d5bbe96d475950aed26ae","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3c8fd55071348e9992be759ceab0000:b894ad9ee2ad483fb2a5b71db0434bfc
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+https://livetv.hotstar.com/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349092~exp=1774349692~acl=/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=8ba2c475661869801ae00c5fa2b0e29453423d50e1cb2e4b13cd4570afc69ad8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7404/567404-h" group-title="JioHotstar⭐️Movies",Jalsha Movies
+#EXTHTTP:{"Cookie":"hdntl=exp=1781817976~acl=%2f*~id=4e284734402fa4863319290350b065df~data=hdntl~hmac=c28be1c7a9a822583f676e65c1d22011f488bd9dee7d5bbe96d475950aed26ae","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a515368ea6bc4d76a1aebc22f4660000:e46451b6cdae433ab6e719f39dcc449e
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+https://livetv.hotstar.com/mp2/gec-india-1540057027/39127b380adb405e8de434e10e20c3a6/index.mpd?_=0&aws.manifestfilter=video_height:0-1080&hdnea=st=1774349116~exp=1774349716~acl=/mp2/gec-india-1540057027/39127b380adb405e8de434e10e20c3a6/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=e6cd3bb3200648b572905c1d01c3e16919f08976ccad99536f2261c832bd5167
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7408/567408-h" group-title="JioHotstar⭐️Movies",Maa Gold
+#EXTHTTP:{"Cookie":"hdntl=exp=1781817976~acl=%2f*~id=4e284734402fa4863319290350b065df~data=hdntl~hmac=c28be1c7a9a822583f676e65c1d22011f488bd9dee7d5bbe96d475950aed26ae","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab4cba34a7084eddbd6edf6a16460000:fd1cb8f19b2e42838d4ace714427ec76
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+https://livetv.hotstar.com/mp1/gec-india-1540057033/9680ef02a23e4d05a7d6afab10805ec4/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349113~exp=1774349713~acl=/mp1/gec-india-1540057033/9680ef02a23e4d05a7d6afab10805ec4/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=92eff19ceac85ffeacc1ee179d67d21c05f6006bed9e29517f429a8643d9005c
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7421/567421-h" group-title="JioHotstar⭐️Movies",Star Maa Movies
+#EXTHTTP:{"Cookie":"hdntl=exp=1781817976~acl=%2f*~id=4e284734402fa4863319290350b065df~data=hdntl~hmac=c28be1c7a9a822583f676e65c1d22011f488bd9dee7d5bbe96d475950aed26ae","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18b7ece05d094614a3839978b9330000:267ba7674fbd4076bbf797eaa1dd16d0
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+https://livetv.hotstar.com/mp1/gec-india-1540057036/9b002b1b2a3748b7a80a8512aef0bb8d/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349114~exp=1774349714~acl=/mp1/gec-india-1540057036/9b002b1b2a3748b7a80a8512aef0bb8d/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=a0a63c265c6a67ecea334af49fc8c4b76cd25ea792a638b2dee08397fef83b77
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7400/567400-h" group-title="JioHotstar⭐️Movies",Asianet Movies
+#EXTHTTP:{"Cookie":"hdntl=exp=1781817976~acl=%2f*~id=4e284734402fa4863319290350b065df~data=hdntl~hmac=c28be1c7a9a822583f676e65c1d22011f488bd9dee7d5bbe96d475950aed26ae","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53e552bf422a4feeb017e38ba43e0000:9cf91549836b4ce98e9d8137591dd38e
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+https://livetv.hotstar.com/mp1/gec-india-1540057039/96454b89b9cd49df822108b6975a1a60/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349118~exp=1774349718~acl=/mp1/gec-india-1540057039/96454b89b9cd49df822108b6975a1a60/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=2493dbafd965f18de4af6ce782ee6c6294147ca643e7767de643466656dd0c68
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7399/567399-h" group-title="JioHotstar⭐️Movies",Star Suvarna Plus
+#EXTHTTP:{"Cookie":"hdntl=exp=1781817976~acl=%2f*~id=4e284734402fa4863319290350b065df~data=hdntl~hmac=c28be1c7a9a822583f676e65c1d22011f488bd9dee7d5bbe96d475950aed26ae","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffcedf61e9544d1da7db98277a290000:cea7c92c93f04c6daaf31e2fda5e6809
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd421d5/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349120~exp=1774349720~acl=/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd421d5/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=39dd3aa7a8cb2ac5f9d2609cea9f0db0692da8452ac766b47204223021a05c18
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_256/sources/r1/cms/prod/4044/1752743564044-h" group-title="JioHotstar⭐️Movies",STAR VIJAY MOVIE TIME
+#EXTHTTP:{"Cookie":"hdntl=exp=1781817976~acl=%2f*~id=4e284734402fa4863319290350b065df~data=hdntl~hmac=c28be1c7a9a822583f676e65c1d22011f488bd9dee7d5bbe96d475950aed26ae","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+https://livetv.hotstar.com/out/v1/llg-tv-mum/1540066002_tamil_de83b1db/gec-india_hls_unencrypted/master-ap-1080-4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/Live-Tv-Channels-colors-cineplex-1607514413063.jpg" group-title="JioHotstar⭐️Movies",Colors Cineplex HD
+#EXTHTTP:{"Cookie":"hdntl=exp=1781817976~acl=%2f*~id=4e284734402fa4863319290350b065df~data=hdntl~hmac=c28be1c7a9a822583f676e65c1d22011f488bd9dee7d5bbe96d475950aed26ae","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+https://jcevents.hotstar.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/JC_ColorsCineplexHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://v3img.voot.com/resizeMedium,w_960,h_540/v3Storage/assets/colors-cineplex-superhit%2016x9-1648793655358.jpg" group-title="JioHotstar⭐️Movies",Colors Cineplex Superhits
+#EXTHTTP:{"Cookie":"hdntl=exp=1781817976~acl=%2f*~id=4e284734402fa4863319290350b065df~data=hdntl~hmac=c28be1c7a9a822583f676e65c1d22011f488bd9dee7d5bbe96d475950aed26ae","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+https://jcevents.hotstar.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHLS/JC_ColorsCineplexSuperhit.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/cineplex-1713963820848.jpeg" group-title="JioHotstar⭐️Movies",Colors Cineplex Bollywood
+#EXTHTTP:{"Cookie":"hdntl=exp=1781817976~acl=%2f*~id=4e284734402fa4863319290350b065df~data=hdntl~hmac=c28be1c7a9a822583f676e65c1d22011f488bd9dee7d5bbe96d475950aed26ae","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+https://jcevents.hotstar.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/JC_ColorsCineplexBollywood.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-kannada-cinema-16x9-1713963481807.jpg" group-title="JioHotstar⭐️Movies",Colors Kannada Cinema
+#EXTHTTP:{"Cookie":"hdntl=exp=1781817976~acl=%2f*~id=4e284734402fa4863319290350b065df~data=hdntl~hmac=c28be1c7a9a822583f676e65c1d22011f488bd9dee7d5bbe96d475950aed26ae","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
+https://jcevents.hotstar.com/bpk-tv/JC_ColorsKannadaCinema/JCHLS/JC_ColorsKannadaCinema.m3u8
