@@ -7,7 +7,7 @@
 $sources = [
     "stalk.m3u" => "https://saarstalk.cartel187.workers.dev/playlist.m3u8",
     "playlist2.m3u" => "https://game.denver69.fun/Jtv/D0sb8q/Playlist.m3u",
-    "playlist3.m3u" => https://raw.githubusercontent.com/cartel187/CartelFlag/refs/heads/main/streamflex1.m3u",
+    "playlist3.m3u" => ",
 ];
 
 $combinedFileName = "all_combined.m3u";
