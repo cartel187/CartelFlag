@@ -6,8 +6,8 @@
 // CONFIGURATION: Add your playlists here
 $sources = [
     "stalk.m3u" => "https://saarstalk.cartel187.workers.dev/playlist.m3u8",
-    "playlist2.m3u" => "https://ais-dev-mjkihhup7zbs3p6zkrdvkj-313480061426.asia-southeast1.run.app/streamflex.m3u",
-    "playlist3.m3u" => "https://play.ksrtech.fun/playlist.php?token=fb5198ff3896583e4c7d92aee27400fa",
+    "playlist2.m3u" => "https://xoevents.cartel187.workers.dev/",
+    "playlist3.m3u" => https://raw.githubusercontent.com/cartel187/CartelFlag/refs/heads/main/streamflex1.m3u",
 ];
 
 $combinedFileName = "all_combined.m3u";
