@@ -5,8 +5,8 @@
 
 // CONFIGURATION: Add your playlists here
 $sources = [
-    "stalk.m3u" => "https://saarstalk.cartel187.workers.dev/playlist.m3u8",
-    "playlist2.m3u" => "https://game.denver69.fun/Jtv/D0sb8q/Playlist.m3u",
+    "stalk.m3u" => "",
+    "playlist2.m3u" => "",
     "playlist3.m3u" => "https://saarstalk.cartel187.workers.dev/playlist.m3u8",
 ];
 
