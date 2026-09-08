@@ -1687,8 +1687,6 @@ https://saarstalk.cartel187.workers.dev/live/477948.m3u8
 https://saarstalk.cartel187.workers.dev/live/477949.m3u8
 #EXTINF:-1 tvg-id="Default" tvg-name="HPITV EAST" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/74322.png" group-title="ENGLISH | CANADA" group-logo="https://ik.imagekit.io/yjtx9nh9y/Black%20White%20Minimal%20Simple%20Modern%20Pixel%20Neon%20%20Modern%20AI%20Logo.png?updatedAt=1780156943081",HPITV EAST
 https://saarstalk.cartel187.workers.dev/live/477950.m3u8
-#EXTINF:-1 tvg-id="odyssey.ca" tvg-name="ODYSSEY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/76236.png" group-title="ENGLISH | CANADA" group-logo="https://ik.imagekit.io/yjtx9nh9y/Black%20White%20Minimal%20Simple%20Modern%20Pixel%20Neon%20%20Modern%20AI%20Logo.png?updatedAt=1780156943081",ODYSSEY
-https://saarstalk.cartel187.workers.dev/live/479866.m3u8
 #EXTINF:-1 tvg-id="Default" tvg-name="VISION TV BK" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/76612.png" group-title="ENGLISH | CANADA" group-logo="https://ik.imagekit.io/yjtx9nh9y/Black%20White%20Minimal%20Simple%20Modern%20Pixel%20Neon%20%20Modern%20AI%20Logo.png?updatedAt=1780156943081",VISION TV BK
 https://saarstalk.cartel187.workers.dev/live/480247.m3u8
 #EXTINF:-1 tvg-id="Default" tvg-name="HPITV BK" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/76613.png" group-title="ENGLISH | CANADA" group-logo="https://ik.imagekit.io/yjtx9nh9y/Black%20White%20Minimal%20Simple%20Modern%20Pixel%20Neon%20%20Modern%20AI%20Logo.png?updatedAt=1780156943081",HPITV BK
@@ -3797,6 +3795,8 @@ https://saarstalk.cartel187.workers.dev/live/476918.m3u8
 https://saarstalk.cartel187.workers.dev/live/477976.m3u8
 #EXTINF:-1 tvg-id="Default" tvg-name="TOON KIDZ" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/76886.jpeg" group-title="ENGLISH | KIDS" group-logo="https://ik.imagekit.io/yjtx9nh9y/Black%20White%20Minimal%20Simple%20Modern%20Pixel%20Neon%20%20Modern%20AI%20Logo.png?updatedAt=1780156943081",TOON KIDZ
 https://saarstalk.cartel187.workers.dev/live/480524.m3u8
+#EXTINF:-1 tvg-id="Default" tvg-name="KIDSLET PLUS TV HD" tvg-logo="https://ik.imagekit.io/yjtx9nh9y/Black%20White%20Minimal%20Simple%20Modern%20Pixel%20Neon%20%20Modern%20AI%20Logo.png?updatedAt=1780156943081" group-title="ENGLISH | KIDS" group-logo="https://ik.imagekit.io/yjtx9nh9y/Black%20White%20Minimal%20Simple%20Modern%20Pixel%20Neon%20%20Modern%20AI%20Logo.png?updatedAt=1780156943081",KIDSLET PLUS TV HD
+https://saarstalk.cartel187.workers.dev/live/482527.m3u8
 #EXTINF:-1 tvg-id="channel_1867" tvg-name="LATEST DOCUMENTARY (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77117.jpg" group-title="ENGLISH | 24X7 DOCUMENTARY" group-logo="https://ik.imagekit.io/yjtx9nh9y/Black%20White%20Minimal%20Simple%20Modern%20Pixel%20Neon%20%20Modern%20AI%20Logo.png?updatedAt=1780156943081",LATEST DOCUMENTARY (4K)
 https://saarstalk.cartel187.workers.dev/live/480756.m3u8
 #EXTINF:-1 tvg-id="channel_1028" tvg-name="HOW IT IS MADE | FOOD (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/78480.jpg" group-title="ENGLISH | 24X7 DOCUMENTARY" group-logo="https://ik.imagekit.io/yjtx9nh9y/Black%20White%20Minimal%20Simple%20Modern%20Pixel%20Neon%20%20Modern%20AI%20Logo.png?updatedAt=1780156943081",HOW IT IS MADE | FOOD (4K)
@@ -18253,6 +18253,8 @@ https://saarstalk.cartel187.workers.dev/live/482463.m3u8
 https://saarstalk.cartel187.workers.dev/live/index.m3u8.m3u8
 #EXTINF:-1 tvg-id="DEFAULT" tvg-name="EFL | WEST HAM UNITED" tvg-logo="https://ik.imagekit.io/yjtx9nh9y/Black%20White%20Minimal%20Simple%20Modern%20Pixel%20Neon%20%20Modern%20AI%20Logo.png?updatedAt=1780156943081" group-title="SPORTS | EFL" group-logo="https://ik.imagekit.io/yjtx9nh9y/Black%20White%20Minimal%20Simple%20Modern%20Pixel%20Neon%20%20Modern%20AI%20Logo.png?updatedAt=1780156943081",EFL | WEST HAM UNITED
 https://saarstalk.cartel187.workers.dev/live/482497.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EFL | SHEFFIELD UNITED" tvg-logo="https://ik.imagekit.io/yjtx9nh9y/Black%20White%20Minimal%20Simple%20Modern%20Pixel%20Neon%20%20Modern%20AI%20Logo.png?updatedAt=1780156943081" group-title="SPORTS | EFL" group-logo="https://ik.imagekit.io/yjtx9nh9y/Black%20White%20Minimal%20Simple%20Modern%20Pixel%20Neon%20%20Modern%20AI%20Logo.png?updatedAt=1780156943081",EFL | SHEFFIELD UNITED
+https://saarstalk.cartel187.workers.dev/live/482524.m3u8
 #EXTINF:-1 tvg-id="72093.NAB" tvg-name="BUNDESLIGA 1 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/72093.png" group-title="SPORTS | BUNDESLIGA" group-logo="https://ik.imagekit.io/yjtx9nh9y/Black%20White%20Minimal%20Simple%20Modern%20Pixel%20Neon%20%20Modern%20AI%20Logo.png?updatedAt=1780156943081",BUNDESLIGA 1 - NO EVENT TODAY
 https://saarstalk.cartel187.workers.dev/live/475421.m3u8
 #EXTINF:-1 tvg-id="72094.NAB" tvg-name="BUNDESLIGA 2 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/72094.png" group-title="SPORTS | BUNDESLIGA" group-logo="https://ik.imagekit.io/yjtx9nh9y/Black%20White%20Minimal%20Simple%20Modern%20Pixel%20Neon%20%20Modern%20AI%20Logo.png?updatedAt=1780156943081",BUNDESLIGA 2 - NO EVENT TODAY
